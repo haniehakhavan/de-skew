@@ -1,3 +1,5 @@
+absl-py==2.0.0
+astunparse==1.6.3
 blinker==1.7.0
 cachetools==5.3.2
 certifi==2023.7.22
@@ -80,3 +82,5 @@ typing_extensions==4.5.0
 urllib3==2.0.7
 Wand==0.6.11
 Werkzeug==3.0.1
+wrapt==1.15.0
+zipp==3.17.0
